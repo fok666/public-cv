@@ -6,8 +6,8 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 
 ### Personal details
 - I am 44 years old, maried and have no kids
-- I am from Brazil, currently living in Germany for the last year
-
+- I am from Brazil, currently living in Germany
+- I enjoy reading dystopian sci-fi novels and tinkering with microcontrollers
 
 ### My perspicuity comes from:
 - 4 years developing DevSecOps solutions and managing Kubernetes workloads.
@@ -20,8 +20,8 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 
 ### Main skills:
 -  Solving Enterprise **Cloud Architecture** chalanges with Azure, AWS ang GCP.
--  Deploying and optimizing **database** environments.
 -  Designing and implementing Cloud-native **Big Data Analytics** solutions with Databricks, Azure Synapse Analytics, Azure Data Factory and others.
+-  Deploying and optimizing **database** environments.
 -  Coding **automation** utilities in Python, JavaScript, PHP, C#, Java, Bash, SQL and more.
 -  Troubleshooting **network** issues, maximizing performance and minimizing security risks.
 
@@ -122,8 +122,14 @@ printf c, x^o-X-o,O+(x*x)-x,x^o-X+o+O,x*(x/o)-X%x,x*(x/o)-X%x,x*(x/o)-X%x,
 O+((x*x)/o)+o+O,(x*x)-(x+x-o-o),x*(x-O)-O,x*(x-O-O)-O-O,x*x-o*o*(o*(O+O)),
 (x*x)-x-o,x*(O+O+O+O)+o,x*(x-O-O),O+(x*x)-(O+o+O+o+O+o+O+o-O),x*(x-O)-O}';
 ```
+
+#### Websites and social:
+- [LinkedIn profile](https://www.linkedin.com/in/fok666/)
+- [GitHub profile](https://github.com/fok666/)
+- [Credly profile](https://www.credly.com/users/fernando-korndorfer)
+- [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/fernandokorndorfer/transcript/d5l14t3yjkrroyo?source=docs)
+
 ---
 **Disclaimer**: Some portions of this document were *enhanced* using AI but otherwise all content is factual.\
 Best regards,\
 Fernando Korndörfer
-
