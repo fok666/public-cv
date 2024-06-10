@@ -9,7 +9,7 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 - I am from Brazil, currently living in Germany
 - I enjoy reading dystopian sci-fi novels and tinkering with microcontrollers
 
-### My perspicuity comes from:
+### My proficiency comes from:
 - 4 years developing DevSecOps solutions and managing Kubernetes workloads.
 - 6 years working with containerized applications.
 - 8 years experience disigning and deploying Cloud solutions.
@@ -19,10 +19,10 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 - A passion about technology, OSS and DevSecOps culture, automation and AI.
 
 ### Main skills:
--  Solving Enterprise **Cloud Architecture** chalanges with Azure, AWS ang GCP.
+-  Solving Enterprise **Cloud Architecture** chalanges with Azure, AWS and GCP.
 -  Designing and implementing Cloud-native **Big Data Analytics** solutions with Databricks, Azure Synapse Analytics, Azure Data Factory and others.
--  Deploying and optimizing **database** environments.
--  Coding **automation** utilities in Python, JavaScript, PHP, C#, Java, Bash, SQL and more.
+-  Deploying and optimizing highliy available **database** environments with Oracle Database, PostgreSQL, MySQL and more.
+-  Coding **automation** utilities in Bash, PowerShell, Python, JavaScript, PHP, C#, Java, SQL and more.
 -  Troubleshooting **network** issues, maximizing performance and minimizing security risks.
 
 ### Summary of experiences:
@@ -35,14 +35,14 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 
 #### Procesor Group as Senior Cloud Solutions Architect for 8 years
 - Strategically designed and implemented cloud architectures tailored to specific client requirements, enabling efficient workload migration and the effective deployment of cloud-native applications.
-- Applied extensive knowledge of DevSecOps engineering principles in the utilization of Azure Kubernetes Services and AWS Elastic Container - Services, driving continuous integration and deployment for improved software delivery.
+- Applied extensive knowledge of DevSecOps engineering principles in the utilization of Azure Kubernetes Services (AKS) and AWS Elastic Container Services (ECS), driving continuous integration and deployment for improved software delivery.
 - Led the optimization of database workloads across both cloud and on-premises systems, ensuring high performance and seamless data management in line with architectural best practices.
 - Worked with a broad range of applications, vendors and technologies bringing custom, cost-effective solutions to clients and users.
 
 #### Pitrez as Java developer and Oracle Infrastructure consultant and for 6 years
 - Developed Java-based applications for healthcare industry compliance management and reporting.
 - Deployed and migrated dozens of Oracle Database Real Application Clusters (RAC) databases across many platforms, sizes and industry sectors.
-- Deployed and integrated highly available clusters of Oracle Fusion Middleware, delivering robust environments and comprehensive documentation to clients and users.
+- Deployed and integrated highly available application clusters of Oracle Fusion Middleware, delivering robust environments and comprehensive documentation to clients and users.
 
 ### Employment history:
 
@@ -62,8 +62,8 @@ Novo Hamburgo, Rio Grande do Sul, Brazil\
 Nov 2009 - Apr 2015
 
 #### Previous experiences:
-- Full-stack developer at *Esperil Design Ltda* in Novo Hamburgo, Brasil, from 2005 to 2009
-- Full-stack developer at *Quatro Informatica Ltda* in Novo Hamburgo, Brasil, from 2001 to 2005
+- Full-stack developer at *Esperil Design Ltda* in Novo Hamburgo, Brasil, from 2006 to 2009
+- Full-stack developer at *Quatro Informatica Ltda* in Novo Hamburgo, Brasil, from 2001 to 2006
 
 ### Education:
 
