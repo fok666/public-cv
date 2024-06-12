@@ -1,8 +1,11 @@
 # Fernando O. Korndörfer
 ### Cloud Solutions Architect
 
-Hello, welcome!\
+Hello, welcome!
+
 With a wealth of experience in the field, I am a seasoned Cloud expert, holding certified credentials across the three major cloud platforms: Azure, AWS, and Google Cloud Platform (GCP). This *trifecta* of certifications underscores my comprehensive understanding of cloud technologies and my ability to navigate the unique features and capabilities of each platform. My expertise spans designing, implementing, and managing robust cloud infrastructures, and I am adept at leveraging the strengths of Azure, AWS, and GCP to develop optimal cloud solutions. This broad-based proficiency positions me to deliver versatile and effective cloud strategies that align with diverse business requirements.
+
+In addition to my practical experience, I have secured a range of certifications in key areas such as AI Engineering, Data Analytics, Cloud Networking, and Security Engineering. This includes the AWS and Azure Developer Associate certifications, as well as a specialty in Azure for SAP Workloads. My expertise also extends to working with Data Loss Prevention software suites, where I have gained additional certifications and provided crucial support for clients pursuing PCI-DSS certification. For a comprehensive view of my credentials, certifications, and transcripts, I invite you to explore the links provided at the end of this page.
 
 ### Personal details
 - I am 44 years old, maried and have no kids
@@ -10,19 +13,19 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 - I enjoy reading dystopian sci-fi novels and tinkering with microcontrollers
 
 ### My proficiency comes from:
-- 4 years developing DevSecOps solutions and managing Kubernetes workloads.
-- 6 years working with containerized applications.
+- 5 years developing DevSecOps solutions and managing Kubernetes workloads.
+- 7 years working with containerized applications.
 - 8 years experience disigning and deploying Cloud solutions.
 - 10 years experience with Oracle Database and Middleware solutions.
-- More than 25 years working with Linux ecosystems, toolsets and services.
-- Different levels of experience with several programing languages and platforms.
+- Over 25 years working with Linux ecosystems, toolsets and services.
+- Experiences with several programing languages, operating systems and platforms.
 - A passion about technology, OSS and DevSecOps culture, automation and AI.
 
 ### Main skills:
 -  Solving Enterprise **Cloud Architecture** chalanges with Azure, AWS and GCP.
 -  Designing and implementing Cloud-native **Big Data Analytics** solutions with Databricks, Azure Synapse Analytics, Azure Data Factory and others.
 -  Deploying and optimizing highliy available **database** environments with Oracle Database, PostgreSQL, MySQL and more.
--  Coding **automation** utilities in Bash, PowerShell, Python, JavaScript, PHP, C#, Java, SQL and more.
+-  Coding **automation** solutions in Bash, PowerShell, Python, JavaScript, PHP, C#, Java, SQL and more.
 -  Troubleshooting **network** issues, maximizing performance and minimizing security risks.
 
 ### Summary of experiences:
@@ -37,7 +40,7 @@ With a wealth of experience in the field, I am a seasoned Cloud expert, holding 
 - Strategically designed and implemented cloud architectures tailored to specific client requirements, enabling efficient workload migration and the effective deployment of cloud-native applications.
 - Applied extensive knowledge of DevSecOps engineering principles in the utilization of Azure Kubernetes Services (AKS) and AWS Elastic Container Services (ECS), driving continuous integration and deployment for improved software delivery.
 - Led the optimization of database workloads across both cloud and on-premises systems, ensuring high performance and seamless data management in line with architectural best practices.
-- Worked with a broad range of applications, vendors and technologies bringing custom, cost-effective solutions to clients and users.
+- Worked with a broad range of applications, vendors and technologies to bring custom, cost-effective solutions to clients and users.
 
 #### Pitrez as Java developer and Oracle Infrastructure consultant and for 6 years
 - Developed Java-based applications for healthcare industry compliance management and reporting.
@@ -75,9 +78,9 @@ Nov 2009 - Apr 2015
 - AWS Certified Solutions Architect - Professional
 - AWS Certified Developer - Associate
 - Microsoft Certified: Azure Solutions Architect Expert
-- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Azure DevOps Engineer Expert
 - Microsoft Certified: Azure Data Engineer Associate
-- Microsoft Certified: Data Analyst Associate
+- Microsoft Certified: Azure Data Analyst Associate
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Network Engineer Associate
 - Microsoft Certified: Azure for SAP Workloads Specialty
@@ -91,12 +94,20 @@ Nov 2009 - Apr 2015
 - GNU/Linux Administration
 - Java2EE Development
 - AWS Well Architected Framework
+- AWS Big Data Analytics
+- AWS Black Belts LATAM - Workload Migration
+- AWS Black Belts LATAM - Machine Learning
+- Azure Cloud Adoption Framework
+- Azure Well Architected Framework
 
 #### Languages
 - Portuguese (Português): Read, write, speak - Native
 - English: Read, write, speak - Medium/Advanced
 
 ### Contact information:
+
+The scripts below output my full contact information.\
+You can use an [on-line `awk` interpreter](https://awk.js.org/).
 
 #### Address:
 ``` sh
