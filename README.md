@@ -144,7 +144,9 @@ O+((x*x)/o)+o+O,(x*x)-(x+x-o-o),x*(x-O)-O,x*(x-O-O)-O-O,x*x-o*o*(o*(O+O)),
 - [Credly profile](https://www.credly.com/users/fernando-korndorfer)
 - [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/fernandokorndorfer/transcript/d5l14t3yjkrroyo?source=docs)
 
----
-**Disclaimer**: Some portions of this document were *enhanced* using AI but otherwise all content is factual.  
 Best regards,  
 Fernando Korndörfer
+---
+**Disclaimers**
+- Some portions of this document were *enhanced* using AI but otherwise all content is factual.  
+- AWK obfuscated code Copyright © 2008 [Davide Brini](https://backreference.org/2011/02/03/obfuscated-awk/index.html)
