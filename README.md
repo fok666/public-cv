@@ -1,4 +1,5 @@
 # Fernando O. Korndörfer
+
 ### Cloud Solutions Architect
 
 Hello, welcome!
@@ -12,7 +13,7 @@ In addition to my practical experience, I have secured a range of certifications
 - I am from Brazil, currently living in Germany
 - I enjoy reading dystopian sci-fi novels and tinkering with microcontrollers
 
-### My proficiency comes from:
+### My proficiency comes from
 - 5 years developing DevSecOps solutions and managing Kubernetes workloads.
 - 7 years working with containerized applications.
 - 8 years experience disigning and deploying Cloud solutions.
@@ -28,7 +29,7 @@ In addition to my practical experience, I have secured a range of certifications
 -  Coding **automation** solutions in Bash, PowerShell, Python, JavaScript, PHP, C#, Java, SQL and more.
 -  Troubleshooting **network** issues, maximizing performance and minimizing security risks.
 
-### Summary of experiences:
+### Summary of experiences
 
 #### PagoNxt Merchant Solutions as Senior Cloud Solutions Architect for 1 year
 - Designed, analyzed, and reviewed Cloud architectures, focusing on application orchestration to ensure optimal performance and scalability.
@@ -47,7 +48,7 @@ In addition to my practical experience, I have secured a range of certifications
 - Deployed and migrated dozens of Oracle Database Real Application Clusters (RAC) databases across many platforms, sizes and industry sectors.
 - Deployed and integrated highly available application clusters of Oracle Fusion Middleware, delivering robust environments and comprehensive documentation to clients and users.
 
-### Employment history:
+### Employment history
 
 #### Cloud Solutions Architect
 PagoNxt Merchant Solutions, S.L - German Branch · Full-Time\
@@ -68,13 +69,13 @@ Nov 2009 - Apr 2015
 - Full-stack developer at *Esperil Design Ltda* in Novo Hamburgo, Brasil, from 2006 to 2009
 - Full-stack developer at *Quatro Informatica Ltda* in Novo Hamburgo, Brasil, from 2001 to 2006
 
-### Education:
+### Education
 
-#### Formal:
+#### Formal
 - Federal University of Rio Grande do Sul (UFRGS), Mechanical Engineering
 - FEEVALE University, Computer Science
 
-#### Certifications:
+#### Certifications
 - AWS Certified Solutions Architect - Professional
 - AWS Certified Developer - Associate
 - Microsoft Certified: Azure Solutions Architect Expert
@@ -94,22 +95,23 @@ Nov 2009 - Apr 2015
 - GNU/Linux Administration
 - Java2EE Development
 - AWS Well Architected Framework
-- AWS Big Data Analytics
+- AWS Big Data Analytics immersion day
 - AWS Black Belts LATAM - Workload Migration
 - AWS Black Belts LATAM - Machine Learning
 - Azure Cloud Adoption Framework
 - Azure Well Architected Framework
 
+*Check out my [badges](./badges) for more details and information.*
+
 #### Languages
 - Portuguese (Português): Read, write, speak - Native
 - English: Read, write, speak - Medium/Advanced
 
-### Contact information:
+### Contact information
 
-The scripts below output my full contact information.  
-You can use an [on-line `awk` interpreter](https://awk.js.org/).
+The scripts below output my full contact information.
 
-#### Address:
+#### Address
 ``` sh
 awk 'BEGIN{O="~"~"~";o="=="=="==";o+=+o;x=O""O;while(X++<=x*(o+o)-o*o+o)c=c"%c";
 printf c, (o*X)-o*o-O,(X*o)+x,(x^o)-x-(o*o)-o,(X*o+X-x-o),X*o+x+o,(X*o+x+o^o+o),
@@ -120,13 +122,13 @@ printf c, (o*X)-o*o-O,(X*o)+x,(x^o)-x-(o*o)-o,(X*o+X-x-o),X*o+x+o,(X*o+x+o^o+o),
 (x^o-x-(o*o)-o),(X*o+x+o),(X*o)+x*o,X,(X-x-O),(X*o)-x-x+o,(X*o)-x-x+o+O,x,x+o;}';
 ```
 
-#### Telephone:
+#### Telephone
 ``` sh
 awk 'BEGIN{O="~"~"~";o="=="=="==";o+=+o;x=O""O;while(X++<=x+o+o)c=c"%d";c=substr(c,O,x+O);
 printf c,(X-o),(X+O+O+O),X*o*(O+O)+(O+O)+O,(X*o)+(X%x)-O,x*(x/(O+O))-(X%x)+o,(x+O)/o+O;}';
 ```
 
-#### E-mail:
+#### E-mail
 ``` sh
 awk 'BEGIN {O="~"~"~";o="=="=="==";o+=+o;x=O""O;while(X++<=x+o*o) c=c"%c";
 printf c, x^o-X-o,O+(x*x)-x,x^o-X+o+O,x*(x/o)-X%x,x*(x/o)-X%x,x*(x/o)-X%x,
@@ -134,7 +136,9 @@ O+((x*x)/o)+o+O,(x*x)-(x+x-o-o),x*(x-O)-O,x*(x-O-O)-O-O,x*x-o*o*(o*(O+O)),
 (x*x)-x-o,x*(O+O+O+O)+o,x*(x-O-O),O+(x*x)-(O+o+O+o+O+o+O+o-O),x*(x-O)-O}';
 ```
 
-#### Websites and social:
+*Tip: you can use an [on-line `awk` interpreter](https://awk.js.org/).*
+
+#### Websites and social
 - [LinkedIn profile](https://www.linkedin.com/in/fok666/)
 - [GitHub profile](https://github.com/fok666/)
 - [Credly profile](https://www.credly.com/users/fernando-korndorfer)
