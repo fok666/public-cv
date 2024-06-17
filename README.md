@@ -124,8 +124,8 @@ printf c, (o*X)-o*o-O,(X*o)+x,(x^o)-x-(o*o)-o,(X*o+X-x-o),X*o+x+o,(X*o+x+o^o+o),
 
 #### Telephone
 ``` sh
-awk 'BEGIN{O="~"~"~";o="=="=="==";o+=+o;x=O""O;while(X++<=x+o+o)c=c"%d";c=substr(c,O,x+O);
-printf c,(X-o),(X+O+O+O),X*o*(O+O)+(O+O)+O,(X*o)+(X%x)-O,x*(x/(O+O))-(X%x)+o,(x+O)/o+O;}';
+awk 'BEGIN {O="~"~"~";o="=="=="==";o+=+o;x=O""O;while(X++<=x+o+o)c=c"%d";c=substr(c,O,(x+O+o+o));printf "+";
+printf c,x*(o+O)+x+o+O+o,0,(X-o),(X+O+O+O),X*o*(O+O)+(O+O)+O,(X*o)+(X%x)-O,x*(x/(O+O))-(X%x)+o,(x+O)/o+O;}';
 ```
 
 #### E-mail
