@@ -145,7 +145,7 @@ O+((x*x)/o)+o+O,(x*x)-(x+x-o-o),x*(x-O)-O,x*(x-O-O)-O-O,x*x-o*o*(o*(O+O)),
 - [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/fernandokorndorfer/transcript/d5l14t3yjkrroyo?source=docs)
 
 Best regards,  
-Fernando Korndörfer
+Fernando Korndörfer  
 ---
 
 **Disclaimers**  
