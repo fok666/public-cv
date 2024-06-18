@@ -1,7 +1,6 @@
 # Badges
 
-Here you can find badges earned over time. Click the badge image link to acces the public verification page.
-
+Here you can find certification badges earned over time. Click the badge image link to acces the public verification page.  
 For more information, check my Credly profile and Microsoft Learn transcript.
 - [Credly profile](https://www.credly.com/users/fernando-korndorfer)
 - [Microsoft Learn Transcript](https://learn.microsoft.com/en-us/users/fernandokorndorfer/transcript/d5l14t3yjkrroyo?source=docs)

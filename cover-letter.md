@@ -8,11 +8,11 @@ My experience with Data Loss Prevention software suites has further equipped me 
 
 I am particularly drawn to your company because of its reputation for fostering innovation and professional development. I am confident that my skills and passion for technology make me a strong candidate for this role.
 
-For a more detailed look at my credentials, certifications, and transcripts, please refer to the links at the bottom of this page. I look forward to the possibility of discussing this opportunity with you further.
+For a more detailed look at my credentials, certifications, and transcripts, please refer to the links at the bottom of my CV. I look forward to the possibility of discussing this opportunity with you further.
 
 Thank you for considering my application.
 
-Best regards,
+Best regards,  
 Fernando Korndörfer
 
 - [LinkedIn profile](https://www.linkedin.com/in/fok666/)
