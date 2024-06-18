@@ -119,7 +119,7 @@ printf c, (o*X)-o*o-O,(X*o)+x,(x^o)-x-(o*o)-o,(X*o+X-x-o),X*o+x+o,(X*o+x+o^o+o),
 (X*(o)+(x+o)),(X*o)+(x*o+o*o),(X-x-O),o*X-(o*o)-O,(X*(x+o))/(o*o)-(x*o)-(o*o)-O,
 (X*o)+(x*o)+o*o,(X+o),X-x-O,(X+x-o-O),(X+x-(o*o*o)+o),X,(X-x-O),(X+x+O),(X+o*o),
 (X+x+o),(X+x+o),X+x,X-x-O,X*o-x,(X*(o+O)-(x*o)+o+o+o+O),(X*o+x+o),X*o+x*o,X*o+x,
-(x^o-x-(o*o)-o),(X*o+x+o),(X*o)+x*o,X,(X-x-O),(X*o)-x-x+o,(X*o)-x-x+o+O,x,x+o;}';
+(x^o-x-(o*o)-o),(X*o+x+o),(X*o)+x*o,X,(X-x-O),(X*o)-x-x+o,(X*o)-x-x+o+O,x,x+o}';
 ```
 
 #### Telephone
