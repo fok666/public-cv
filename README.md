@@ -16,14 +16,14 @@ In addition to my practical experience, I have secured a range of certifications
 ### My proficiency comes from
 - 5 years developing DevSecOps solutions and managing Kubernetes workloads.
 - 7 years working with containerized applications.
-- 8 years experience disigning and deploying Cloud solutions.
+- 8 years experience designing and deploying Cloud solutions.
 - 10 years experience with Oracle Database and Middleware solutions.
 - Over 25 years working with Linux ecosystems, toolsets and services.
 - Experiences with several programing languages, operating systems and platforms.
 - A passion about technology, OSS and DevSecOps culture, automation and AI.
 
 ### Main skills:
--  Solving Enterprise **Cloud Architecture** chalanges with Azure, AWS and GCP.
+-  Solving Enterprise **Cloud Architecture** challenges with Azure, AWS and GCP.
 -  Designing and implementing Cloud-native **Big Data Analytics** solutions with Databricks, Azure Synapse Analytics, Azure Data Factory and others.
 -  Deploying and optimizing highliy available **database** environments with Oracle Database, PostgreSQL, MySQL and more.
 -  Coding **automation** solutions in Bash, PowerShell, Python, JavaScript, PHP, C#, Java, SQL and more.
