@@ -101,7 +101,7 @@ Nov 2009 - Apr 2015
 - Azure Cloud Adoption Framework
 - Azure Well Architected Framework
 
-*Check out my [badges](./badges) for more details and information.*
+*Check out my [badges](./badges) and [certificates](./certificates) pages for more details and information.*
 
 #### Languages
 - Portuguese (Português): Read, write, speak - Native
