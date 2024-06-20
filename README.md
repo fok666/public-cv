@@ -36,6 +36,8 @@ In addition to my practical experience, I have secured a range of certifications
 - Developed and enhanced automation processes for DevSecOps and Infrastructure as Code (IaC) pipelines, supporting Kubernetes CI/CD and microservices applications, leading to improved deployment efficiency and code quality.
 - Led the development of comprehensive platform documentation and conducted user/customer training sessions, which promoted platform adoption and adherence to compliance standards.
 - Implemented strategies to improve platform observability and compliance visibility within the organization, resulting in enhanced monitoring capabilities and increased awareness of compliance status.
+- Interim reference letter *"[Zwischenzeugnis](./documents/Zwischenzeugnis-PagoNxt-20240620.pdf)"*
+
 
 #### Procesor Group as Senior Cloud Solutions Architect for 8 years
 - Strategically designed and implemented cloud architectures tailored to specific client requirements, enabling efficient workload migration and the effective deployment of cloud-native applications.
@@ -51,18 +53,18 @@ In addition to my practical experience, I have secured a range of certifications
 ### Employment history
 
 #### Cloud Solutions Architect
-PagoNxt Merchant Solutions, S.L - German Branch · Full-Time\
-Muenchen, Bayern, Germany\
+PagoNxt Merchant Solutions, S.L - German Branch · Full-Time  
+Muenchen, Bayern, Germany  
 May 2023 - Present
 
 #### Cloud Solutions Architect
-Processor Group · Full-Time\
-Porto Alegre, Rio Grande do Sul, Brazil\
+Processor Group · Full-Time  
+Porto Alegre, Rio Grande do Sul, Brazil  
 Apr 2015 - Apr 2023
 
 #### Oracle Infrastructure Consultant
-Pitrez Consulting · Full-Time\
-Novo Hamburgo, Rio Grande do Sul, Brazil\
+Pitrez Consulting · Full-Time  
+Novo Hamburgo, Rio Grande do Sul, Brazil  
 Nov 2009 - Apr 2015
 
 #### Previous experiences:
