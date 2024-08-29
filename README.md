@@ -1,3 +1,5 @@
+# Disabled
+<!--
 # Fernando O. Korndörfer
 
 ### Cloud Solutions Architect
@@ -153,3 +155,4 @@ Fernando Korndörfer
 **Disclaimers**  
 - Some portions of this document were *enhanced* using AI but otherwise all content is factual.  
 - AWK obfuscated code Copyright © 2008 [Davide Brini](https://backreference.org/2011/02/03/obfuscated-awk/index.html)
+-->
